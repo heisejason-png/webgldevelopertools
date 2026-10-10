@@ -10,5 +10,5 @@ v1.0.0: Initial [semver tag](http://semver.org/), used for module versioning by 
 
 For more information and other useful tools, consult the WebGL wiki:
 http://www.khronos.org/webgl/wiki/
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
